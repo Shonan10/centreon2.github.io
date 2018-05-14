@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Post
-published: false
+published: true
 date: 2018-05-17
 categories: [blogging]
 tags: [blogging]
