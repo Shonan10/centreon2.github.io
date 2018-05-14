@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Post
+title: Ohayo Gozaimasu
 published: true
 date: 2018-05-17
 categories: [blogging]
@@ -26,7 +26,7 @@ Bold
 **sample bold**
 
 Links
-[Zabbix](https://www.zabbix.com/)
+[Centreon](https://www.centreon.com/)
 
 Code Highlighting
 {% highlight csharp %}
