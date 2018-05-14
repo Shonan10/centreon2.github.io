@@ -36,8 +36,3 @@ var a = "bad variable name"
 
 Highlighting text without the code highlighting
 you will get text like this if you start the line with a tab.
-
----
-other front matter tags 
-published: true
----
