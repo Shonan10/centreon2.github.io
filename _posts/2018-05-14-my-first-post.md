@@ -39,5 +39,5 @@ you will get text like this if you start the line with a tab.
 
 ---
 other front matter tags 
-published: false
+published: enable
 ---
